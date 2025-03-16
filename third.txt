@@ -1,2 +1,19 @@
 third file module-01
 module-02
+
+
+//for every folder
+git config user.name 
+git config user.email
+
+git config user.name 'saifultamim'
+git config user.email 'saifultamim38@gmail.com'
+
+
+
+//for global
+git config --global user.name
+git config --global user.email
+
+git config --global user.name "saifultamim"
+git config --global user.email "saifultamim38@gmail.com"
